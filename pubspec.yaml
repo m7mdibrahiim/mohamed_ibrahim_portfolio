@@ -1,0 +1,53 @@
+name: mohamed_ibrahim_portfolio
+description: Premium Flutter Web portfolio for Mohamed Ibrahim, Flutter Developer.
+publish_to: 'none'
+version: 1.5.0+5
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  go_router: ^14.0.0
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.3.1
+  google_fonts: ^6.2.1
+  visibility_detector: ^0.4.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/profile/
+    - assets/images/projects/dr_yasmeen_pharmacy/
+    - assets/images/projects/noga_mobile/authoritative_v4/
+    - assets/images/projects/sharks_academy/
+    - assets/images/projects/targetx/
+    - assets/images/projects/farah_services/
+    - assets/images/projects/trelixi/
+    - assets/images/projects/education/
+    - assets/images/projects/cleany/
+    - assets/images/projects/fitness/
+    - assets/images/projects/kanzoon/
+    - assets/images/projects/recast/
+    - assets/images/projects/shop_smart/
+    - assets/images/projects/game_zone/final_v3/
+    - assets/images/projects/a2h/
+    - assets/images/projects/rusheta/
+    - assets/images/projects/ahla_beauty/
+    - assets/images/projects/gypsum_home/
+    - assets/images/projects/al_raqi_mobile/authoritative_v4/
+    - assets/images/presentations/
+    - assets/images/placeholders/
+    - assets/images/og/
+    - assets/icons/
+    - assets/cv/
+    - assets/videos/

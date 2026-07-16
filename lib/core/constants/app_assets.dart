@@ -1,0 +1,404 @@
+class AppAssets {
+  const AppAssets._();
+
+  // static const profilePhoto = 'assets/images/profile/mohamed_ibrahim.jpg';
+  static const profilePhoto = 'assets/images/profile/mohamed_ibrahim_v3.jpg';
+
+  static const ogCover = 'assets/images/og/og_cover.png';
+  static const flutterCapability =
+      'assets/images/presentations/flutter_capability.webp';
+  static const genericPlaceholder =
+      'assets/images/placeholders/generic_placeholder.jpg';
+
+  // static const updatedCvPdf = 'assets/cv/Mohamed_Ibrahim_Updated_CV.pdf';
+  // static const updatedCvDocx = 'assets/cv/Mohamed_Ibrahim_Updated_CV.docx';
+
+//
+
+  static const updatedCvPdf = 'assets/cv/Mohamed_Ibrahim_CV_v3.pdf';
+
+  static const updatedCvDocx = 'assets/cv/Mohamed_Ibrahim_CV_v3.docx';
+
+  static const nogaMobileShowcaseVideo =
+      'assets/videos/noga_mobile_showcase_v3.mp4';
+  static const nogaMobileShowcasePoster =
+      'assets/images/projects/noga_mobile/authoritative_v4/noga_15_v4.jpg';
+  static const alRaqiMobileShowcaseVideo =
+      'assets/videos/al_raqi_mobile_showcase_v3.mp4';
+  static const alRaqiMobileShowcasePoster =
+      'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_23_v4.jpg';
+
+  static const drYasmeenCover =
+      'assets/images/projects/dr_yasmeen_pharmacy/03_home_dark.webp';
+  static const List<String> drYasmeenScreenshots = [
+    'assets/images/projects/dr_yasmeen_pharmacy/01_login.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/02_home_light.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/03_home_dark.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/04_offers_latest_light.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/05_offers_latest_dark.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/06_product_sections.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/07_search.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/08_wishlist.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/09_orders.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/10_profile_light.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/11_profile_dark.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/12_payment_method.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/13_account_settings.webp',
+    'assets/images/projects/dr_yasmeen_pharmacy/14_theme_language_settings.webp',
+  ];
+
+  static const nogaMobileCover =
+      'assets/images/projects/noga_mobile/authoritative_v4/noga_15_v4.jpg';
+  static const List<String> nogaMobileScreenshots = [
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_01_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_02_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_03_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_04_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_05_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_06_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_07_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_08_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_09_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_10_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_11_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_12_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_13_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_14_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_15_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_16_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_17_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_18_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_19_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_20_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_21_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_22_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_23_v4.jpg',
+    'assets/images/projects/noga_mobile/authoritative_v4/noga_24_v4.jpg',
+  ];
+
+  static const sharksAcademyCover =
+      'assets/images/projects/sharks_academy/07_home.webp';
+  static const List<String> sharksAcademyScreenshots = [
+    'assets/images/projects/sharks_academy/01_splash.webp',
+    'assets/images/projects/sharks_academy/02_onboarding_welcome.webp',
+    'assets/images/projects/sharks_academy/03_onboarding_courses.webp',
+    'assets/images/projects/sharks_academy/04_onboarding_exams.webp',
+    'assets/images/projects/sharks_academy/05_login.webp',
+    'assets/images/projects/sharks_academy/06_register.webp',
+    'assets/images/projects/sharks_academy/07_home.webp',
+    'assets/images/projects/sharks_academy/08_course_categories.webp',
+    'assets/images/projects/sharks_academy/09_course_catalog.webp',
+    'assets/images/projects/sharks_academy/10_course_details.webp',
+    'assets/images/projects/sharks_academy/11_learning_content.webp',
+    'assets/images/projects/sharks_academy/12_exam_catalog.webp',
+    'assets/images/projects/sharks_academy/13_exam_search.webp',
+    'assets/images/projects/sharks_academy/14_exam_selection.webp',
+    'assets/images/projects/sharks_academy/15_exam_schedule.webp',
+    'assets/images/projects/sharks_academy/16_exam_list.webp',
+    'assets/images/projects/sharks_academy/17_exam_question.webp',
+    'assets/images/projects/sharks_academy/18_exam_result.webp',
+    'assets/images/projects/sharks_academy/19_student_profile.webp',
+    'assets/images/projects/sharks_academy/20_profile_details.webp',
+    'assets/images/projects/sharks_academy/21_settings_language.webp',
+    'assets/images/projects/sharks_academy/22_loading_state.webp',
+    'assets/images/projects/sharks_academy/23_electronic_receipt.webp',
+    'assets/images/projects/sharks_academy/24_receipt_preview.webp',
+    'assets/images/projects/sharks_academy/25_presentation_board.webp',
+  ];
+
+  static const targetxCover =
+      'assets/images/projects/targetx/01_home_catalog.webp';
+  static const List<String> targetxScreenshots = [
+    'assets/images/projects/targetx/01_home_catalog.webp',
+    'assets/images/projects/targetx/02_offers_overview.webp',
+    'assets/images/projects/targetx/03_offers_coupons.webp',
+    'assets/images/projects/targetx/04_favorites.webp',
+    'assets/images/projects/targetx/05_cart.webp',
+    'assets/images/projects/targetx/06_product_details.webp',
+    'assets/images/projects/targetx/07_related_products.webp',
+    'assets/images/projects/targetx/08_clothes_category.webp',
+    'assets/images/projects/targetx/09_phones_category.webp',
+    'assets/images/projects/targetx/10_offers_list.webp',
+    'assets/images/projects/targetx/11_secure_checkout.webp',
+    'assets/images/projects/targetx/12_profile.webp',
+    'assets/images/projects/targetx/13_settings.webp',
+  ];
+
+  static const farahServicesCover =
+      'assets/images/projects/farah_services/04_home_dark.webp';
+  static const List<String> farahServicesScreenshots = [
+    'assets/images/projects/farah_services/01_splash.webp',
+    'assets/images/projects/farah_services/02_welcome.webp',
+    'assets/images/projects/farah_services/03_home_light.webp',
+    'assets/images/projects/farah_services/04_home_dark.webp',
+    'assets/images/projects/farah_services/05_categories.webp',
+    'assets/images/projects/farah_services/06_service_categories.webp',
+    'assets/images/projects/farah_services/07_service_details.webp',
+    'assets/images/projects/farah_services/08_favorites_light.webp',
+    'assets/images/projects/farah_services/09_favorites_dark.webp',
+    'assets/images/projects/farah_services/10_my_services.webp',
+    'assets/images/projects/farah_services/11_profile_light.webp',
+    'assets/images/projects/farah_services/12_profile_dark.webp',
+    'assets/images/projects/farah_services/13_presentation_board.webp',
+  ];
+
+  static const trelixiCover =
+      'assets/images/projects/trelixi/07_root_family_activity.webp';
+  static const List<String> trelixiScreenshots = [
+    'assets/images/projects/trelixi/01_splash.webp',
+    'assets/images/projects/trelixi/02_choose_profile.webp',
+    'assets/images/projects/trelixi/03_profile_choice.webp',
+    'assets/images/projects/trelixi/04_login.webp',
+    'assets/images/projects/trelixi/05_story_library.webp',
+    'assets/images/projects/trelixi/06_level_intro.webp',
+    'assets/images/projects/trelixi/07_root_family_activity.webp',
+    'assets/images/projects/trelixi/08_success_dialog.webp',
+    'assets/images/projects/trelixi/09_root_awareness_intro.webp',
+    'assets/images/projects/trelixi/10_matching_grid.webp',
+    'assets/images/projects/trelixi/11_activity_intro.webp',
+    'assets/images/projects/trelixi/12_word_matching.webp',
+    'assets/images/projects/trelixi/13_drag_connections.webp',
+    'assets/images/projects/trelixi/14_instruction.webp',
+    'assets/images/projects/trelixi/15_word_choices.webp',
+    'assets/images/projects/trelixi/16_story_categories.webp',
+    'assets/images/projects/trelixi/17_morphology_intro.webp',
+    'assets/images/projects/trelixi/18_word_usage.webp',
+    'assets/images/projects/trelixi/19_story_usage.webp',
+    'assets/images/projects/trelixi/20_activity_table.webp',
+  ];
+
+  static const educationCover = 'assets/images/projects/education/02_home.webp';
+  static const List<String> educationScreenshots = [
+    'assets/images/projects/education/01_signup.webp',
+    'assets/images/projects/education/02_home.webp',
+    'assets/images/projects/education/03_courses.webp',
+    'assets/images/projects/education/04_course_details.webp',
+    'assets/images/projects/education/05_lesson_details.webp',
+    'assets/images/projects/education/06_profile_rating.webp',
+    'assets/images/projects/education/07_presentation_board.webp',
+  ];
+
+  static const cleanyCover = 'assets/images/projects/cleany/01_home.webp';
+  static const List<String> cleanyScreenshots = [
+    'assets/images/projects/cleany/01_home.webp',
+    'assets/images/projects/cleany/02_booking_flow.webp',
+    'assets/images/projects/cleany/03_add_location.webp',
+    'assets/images/projects/cleany/04_checkout.webp',
+    'assets/images/projects/cleany/05_profile_dark.webp',
+    'assets/images/projects/cleany/06_presentation_board.webp',
+  ];
+
+  static const fitnessCover =
+      'assets/images/projects/fitness/01_dashboard.webp';
+  static const List<String> fitnessScreenshots = [
+    'assets/images/projects/fitness/01_dashboard.webp',
+    'assets/images/projects/fitness/02_discover.webp',
+    'assets/images/projects/fitness/03_plans.webp',
+    'assets/images/projects/fitness/04_workout_routines.webp',
+    'assets/images/projects/fitness/05_recipes.webp',
+    'assets/images/projects/fitness/06_profile.webp',
+    'assets/images/projects/fitness/07_presentation_board.webp',
+  ];
+
+  static const kanzoonCover =
+      'assets/images/projects/kanzoon/05_dashboard.webp';
+  static const List<String> kanzoonScreenshots = [
+    'assets/images/projects/kanzoon/01_welcome.webp',
+    'assets/images/projects/kanzoon/02_role_selection.webp',
+    'assets/images/projects/kanzoon/03_role_selection_filled.webp',
+    'assets/images/projects/kanzoon/04_signup.webp',
+    'assets/images/projects/kanzoon/05_dashboard.webp',
+    'assets/images/projects/kanzoon/06_saving_goal.webp',
+    'assets/images/projects/kanzoon/07_create_family.webp',
+    'assets/images/projects/kanzoon/08_settings.webp',
+  ];
+
+  static const recastCover = 'assets/images/projects/recast/01_home.webp';
+  static const List<String> recastScreenshots = [
+    'assets/images/projects/recast/01_home.webp',
+    'assets/images/projects/recast/02_menu.webp',
+    'assets/images/projects/recast/03_food_details.webp',
+    'assets/images/projects/recast/04_exit_dialog.webp',
+  ];
+
+  static const shopSmartCover =
+      'assets/images/projects/shop_smart/02_cover_board.webp';
+  static const List<String> shopSmartScreenshots = [
+    'assets/images/projects/shop_smart/01_workflow_board.webp',
+    'assets/images/projects/shop_smart/02_cover_board.webp',
+  ];
+
+  // static const gameZoneCover =
+  //     'assets/images/projects/game_zone/final_v3/01_inventory_management_v3.webp';
+  // static const List<String> gameZoneScreenshots = [
+  //   'assets/images/projects/game_zone/final_v3/01_inventory_management_v3.webp',
+  // ];
+
+  //
+
+  static const gameZoneCover =
+      'assets/images/projects/game_zone/final_v3/02_dashboard_qr_tracking_v3.png';
+  // 'assets/images/projects/game_zone/final_v3/01_inventory_management_v3.webp';
+  // static const List<String> gameZoneScreenshots = [
+  //   'assets/images/projects/game_zone/final_v3/01_inventory_management_v3.webp',
+
+  // ];
+  //
+  static const List<String> gameZoneScreenshots = [
+    'assets/images/projects/game_zone/final_v3/01_repair_job_details_v3.png',
+    'assets/images/projects/game_zone/final_v3/02_dashboard_qr_tracking_v3.png',
+    'assets/images/projects/game_zone/final_v3/03_dashboard_barcode_tracking_v3.png',
+    'assets/images/projects/game_zone/final_v3/04_inventory_management_v3.png',
+    'assets/images/projects/game_zone/final_v3/05_daily_reports_summary_v3.png',
+    'assets/images/projects/game_zone/final_v3/06_daily_reports_activity_v3.png',
+    'assets/images/projects/game_zone/final_v3/07_public_tracking_overview_v3.png',
+    'assets/images/projects/game_zone/final_v3/08_public_tracking_delivery_status_v3.png',
+    'assets/images/projects/game_zone/final_v3/09_public_tracking_timeline_v3.png',
+    'assets/images/projects/game_zone/final_v3/10_delivery_confirmation_v3.png',
+  ];
+
+//
+
+  static const a2hCover =
+      'assets/images/projects/a2h/01_operations_dashboard.webp';
+  static const List<String> a2hScreenshots = [
+    'assets/images/projects/a2h/01_operations_dashboard.webp',
+    'assets/images/projects/a2h/02_quick_invoice_menu.webp',
+    'assets/images/projects/a2h/03_sales_invoice.webp',
+    'assets/images/projects/a2h/04_sales_print_preview.webp',
+    'assets/images/projects/a2h/05_purchase_invoice.webp',
+    'assets/images/projects/a2h/06_purchase_print_preview.webp',
+  ];
+
+  static const rushetaCover =
+      'assets/images/projects/rusheta/07_dark_records.webp';
+  static const List<String> rushetaScreenshots = [
+    'assets/images/projects/rusheta/01_new_patient.webp',
+    'assets/images/projects/rusheta/02_prescription_form.webp',
+    'assets/images/projects/rusheta/03_medicine_items.webp',
+    'assets/images/projects/rusheta/04_patient_details.webp',
+    'assets/images/projects/rusheta/05_records_overview.webp',
+    'assets/images/projects/rusheta/06_records_overview_alt.webp',
+    'assets/images/projects/rusheta/07_dark_records.webp',
+    'assets/images/projects/rusheta/08_print_preview.webp',
+    'assets/images/projects/rusheta/09_pdf_output.webp',
+    'assets/images/projects/rusheta/10_prescription_report.webp',
+  ];
+
+  static const ahlaBeautyCover =
+      'assets/images/projects/ahla_beauty/01_desktop_home.webp';
+  static const List<String> ahlaBeautyScreenshots = [
+    'assets/images/projects/ahla_beauty/01_desktop_home.webp',
+    'assets/images/projects/ahla_beauty/02_desktop_discovery.webp',
+    'assets/images/projects/ahla_beauty/03_desktop_categories.webp',
+    'assets/images/projects/ahla_beauty/04_desktop_product_grid.webp',
+    'assets/images/projects/ahla_beauty/05_desktop_product_grid_alt.webp',
+    'assets/images/projects/ahla_beauty/06_desktop_cart_summary.webp',
+    'assets/images/projects/ahla_beauty/07_desktop_checkout.webp',
+    'assets/images/projects/ahla_beauty/08_desktop_product_details.webp',
+    'assets/images/projects/ahla_beauty/09_desktop_cart.webp',
+    'assets/images/projects/ahla_beauty/10_desktop_cart_alt.webp',
+    'assets/images/projects/ahla_beauty/11_desktop_checkout_address.webp',
+    'assets/images/projects/ahla_beauty/12_desktop_checkout_payment.webp',
+    'assets/images/projects/ahla_beauty/13_desktop_account_details.webp',
+    'assets/images/projects/ahla_beauty/14_desktop_orders.webp',
+    'assets/images/projects/ahla_beauty/15_desktop_product_card.webp',
+    'assets/images/projects/ahla_beauty/16_desktop_store_profile.webp',
+    'assets/images/projects/ahla_beauty/17_desktop_store_profile_alt.webp',
+    'assets/images/projects/ahla_beauty/18_desktop_collection.webp',
+    'assets/images/projects/ahla_beauty/19_desktop_product_details_alt.webp',
+    'assets/images/projects/ahla_beauty/20_desktop_product_details_full.webp',
+    'assets/images/projects/ahla_beauty/21_mobile_home.webp',
+    'assets/images/projects/ahla_beauty/22_mobile_brand_story.webp',
+    'assets/images/projects/ahla_beauty/23_mobile_product_details.webp',
+    'assets/images/projects/ahla_beauty/24_mobile_product_grid.webp',
+    'assets/images/projects/ahla_beauty/25_mobile_product_grid_alt.webp',
+    'assets/images/projects/ahla_beauty/26_mobile_cart_summary.webp',
+    'assets/images/projects/ahla_beauty/27_mobile_checkout_form.webp',
+    'assets/images/projects/ahla_beauty/28_mobile_order_summary.webp',
+    'assets/images/projects/ahla_beauty/29_mobile_product_media.webp',
+    'assets/images/projects/ahla_beauty/30_mobile_account.webp',
+    'assets/images/projects/ahla_beauty/31_mobile_checkout.webp',
+    'assets/images/projects/ahla_beauty/32_mobile_cart.webp',
+    'assets/images/projects/ahla_beauty/33_mobile_order_confirmation.webp',
+    'assets/images/projects/ahla_beauty/34_mobile_price_summary.webp',
+    'assets/images/projects/ahla_beauty/35_mobile_address.webp',
+    'assets/images/projects/ahla_beauty/36_mobile_payment.webp',
+    'assets/images/projects/ahla_beauty/37_mobile_card_payment.webp',
+    'assets/images/projects/ahla_beauty/38_mobile_success.webp',
+    'assets/images/projects/ahla_beauty/39_mobile_order_details.webp',
+    'assets/images/projects/ahla_beauty/40_mobile_invoice.webp',
+    'assets/images/projects/ahla_beauty/41_mobile_order_tracking.webp',
+    'assets/images/projects/ahla_beauty/42_mobile_product_card.webp',
+  ];
+
+  static const gypsumHomeCover =
+      'assets/images/projects/gypsum_home/01_desktop_home.webp';
+  static const List<String> gypsumHomeScreenshots = [
+    'assets/images/projects/gypsum_home/01_desktop_home.webp',
+    'assets/images/projects/gypsum_home/02_desktop_about.webp',
+    'assets/images/projects/gypsum_home/03_desktop_contact.webp',
+    'assets/images/projects/gypsum_home/04_desktop_projects.webp',
+    'assets/images/projects/gypsum_home/05_desktop_team.webp',
+    'assets/images/projects/gypsum_home/06_desktop_services.webp',
+    'assets/images/projects/gypsum_home/07_desktop_process.webp',
+    'assets/images/projects/gypsum_home/08_desktop_process_alt.webp',
+    'assets/images/projects/gypsum_home/09_desktop_benefits.webp',
+    'assets/images/projects/gypsum_home/10_desktop_faq.webp',
+    'assets/images/projects/gypsum_home/11_desktop_cta.webp',
+    'assets/images/projects/gypsum_home/12_desktop_footer.webp',
+    'assets/images/projects/gypsum_home/13_mobile_home.webp',
+    'assets/images/projects/gypsum_home/14_mobile_services_summary.webp',
+    'assets/images/projects/gypsum_home/15_mobile_navigation.webp',
+    'assets/images/projects/gypsum_home/16_mobile_contact.webp',
+    'assets/images/projects/gypsum_home/17_mobile_about.webp',
+    'assets/images/projects/gypsum_home/18_mobile_notice.webp',
+    'assets/images/projects/gypsum_home/19_mobile_projects.webp',
+    'assets/images/projects/gypsum_home/20_mobile_team.webp',
+    'assets/images/projects/gypsum_home/21_mobile_services.webp',
+    'assets/images/projects/gypsum_home/22_mobile_process.webp',
+    'assets/images/projects/gypsum_home/23_mobile_process_detail.webp',
+    'assets/images/projects/gypsum_home/24_mobile_benefits.webp',
+    'assets/images/projects/gypsum_home/25_mobile_faq.webp',
+    'assets/images/projects/gypsum_home/26_mobile_faq_alt.webp',
+    'assets/images/projects/gypsum_home/27_mobile_cta.webp',
+    'assets/images/projects/gypsum_home/28_mobile_footer.webp',
+  ];
+
+  static const alRaqiMobileCover =
+      'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_23_v4.jpg';
+  static const List<String> alRaqiMobileScreenshots = [
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_01_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_02_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_03_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_04_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_05_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_06_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_07_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_08_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_09_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_10_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_11_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_12_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_13_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_14_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_15_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_16_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_17_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_18_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_19_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_20_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_21_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_22_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_23_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_24_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_25_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_26_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_27_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_28_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_29_v4.jpg',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_30_v4.png',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_31_v4.png',
+    'assets/images/projects/al_raqi_mobile/authoritative_v4/al_raqi_32_v4.png',
+  ];
+}
